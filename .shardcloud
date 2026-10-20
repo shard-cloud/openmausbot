@@ -1,0 +1,6 @@
+DISPLAY_NAME=OpenMausBot
+DESCRIPTION=Open-source chat app for running Claude Code and Codex agents as persistent bots, with memory, routines and a web UI you can pair from any browser or phone.
+MEMORY=2048
+VERSION=24.15.0
+LANGUAGE=node
+CUSTOM_COMMAND=sh start.sh

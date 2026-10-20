@@ -1,0 +1,9 @@
+{
+  "name": "openmausbot-app",
+  "private": true,
+  "dependencies": {
+    "@anthropic-ai/claude-code": "2.1.304",
+    "@openai/codex": "0.163.0",
+    "openmausbot": "0.1.119"
+  }
+}

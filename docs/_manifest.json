@@ -1,0 +1,8 @@
+{
+  "title": "ShardCloud Template — OpenMausBot",
+  "ref": "main",
+  "items": [
+    { "file": "01-intro.md", "label": "Introdução" },
+    { "file": "02-config.md", "label": "Configuração" }
+  ]
+}
